@@ -10,13 +10,6 @@ This Python script reads all `.csv` files from a specified folder, combines them
 - Combines non-empty CSV files into one pandas DataFrame.
 - Exports the final combined data to a new CSV file.
 
-## 📂 File Structure
-your_project_folder/
-│
-├── combined_data.csv # Output file (auto-generated)
-├── your_csv_files/ # Place all CSVs here
-└── combine_csv.py # This script
-
 ## 🛠️ Requirements
 
 - Python 3.x
